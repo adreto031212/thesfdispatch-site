@@ -1,0 +1,28 @@
+# SF Dispatch
+
+> The SF Dispatch is a free weekly email newsletter about San Francisco, CA, sent Thursdays at 6 AM Pacific and published by Neighborhood Press LLC. It covers city council decisions, land-use and permit notices, road and transit changes, school district news, openings and closings, with one section per neighborhood. Every item links its public source. It is researched and written with AI tools, and an editor reads every issue before it goes out.
+
+## Key pages
+- [This week in San Francisco](https://www.thesfdispatch.com/this-week/): the dated items for the current week, updated every Thursday
+- [Standards](https://www.thesfdispatch.com/standards/): publisher, sources, sponsors, corrections
+- [Subscribe](https://www.thesfdispatch.com/): free, one email a week
+
+## Neighborhoods
+- [Richmond](https://www.thesfdispatch.com/richmond/): The avenues between the Presidio and Golden Gate Park, along Clement Street and Geary Boulevard, with the Richmond Branch Library on 9th Avenue, the Anza Branch on 37th Avenue and Lincoln Park.
+- [Sunset & Parkside](https://www.thesfdispatch.com/sunset-parkside/): The avenues south of Golden Gate Park to Ocean Beach, along Irving, Judah and Taraval streets, with the N Judah and L Taraval Muni lines, the Sunset and Parkside branch libraries and Stern Grove.
+- [Marina & Pacific Heights](https://www.thesfdispatch.com/marina-pacific-heights/): Chestnut, Union and Fillmore streets from the Marina Green and the Palace of Fine Arts up to Alta Plaza and Lafayette parks, with Fort Mason and the Marina Branch Library on Chestnut Street.
+- [Western Addition & Japantown](https://www.thesfdispatch.com/western-addition-japantown/): Divisadero and Fillmore streets around Alamo Square, with the Western Addition Branch Library on Scott Street, the Japan Center and the Japantown Peace Plaza on Post Street.
+- [Civic Center, Tenderloin & Hayes Valley](https://www.thesfdispatch.com/civic-center-tenderloin-hayes-valley/): City Hall and Civic Center Plaza, the Main Library on Larkin Street, Boeddeker Park and the Civic Center BART station, west to Hayes Street and Patricia's Green on Octavia Boulevard.
+- [Russian Hill & Nob Hill](https://www.thesfdispatch.com/russian-hill-nob-hill/): The two hills above Polk Street, with the crooked block of Lombard Street, Huntington Park beside Grace Cathedral at California and Taylor streets, and the Powell-Hyde and California Street cable car lines.
+- [North Beach & Chinatown](https://www.thesfdispatch.com/north-beach-chinatown/): Grant and Columbus avenues from Portsmouth Square to Washington Square, with Coit Tower on Telegraph Hill, the Chinatown-Rose Pak Muni station on Stockton Street and the North Beach and Chinatown branch libraries.
+- [Financial District & Embarcadero](https://www.thesfdispatch.com/financial-district-embarcadero/): The blocks between Market Street and the Embarcadero, with the Ferry Building, Salesforce Park atop the Salesforce Transit Center, Rincon Park and the Montgomery and Embarcadero BART stations.
+- [SoMa & Mission Bay](https://www.thesfdispatch.com/soma-mission-bay/): South of Market from Yerba Buena Gardens and Moscone Center to Oracle Park and the 4th and King Caltrain station, with Chase Center, the T Third line and the Mission Bay Branch Library.
+- [Haight-Ashbury & Cole Valley](https://www.thesfdispatch.com/haight-ashbury-cole-valley/): Haight Street from Buena Vista Park to Stanyan Street and Golden Gate Park, with the Panhandle, Cole Street to the south and the Park Branch Library on Page Street.
+- [Castro & Noe Valley](https://www.thesfdispatch.com/castro-noe-valley/): Castro Street from Market Street to 24th Street, with Harvey Milk Plaza at Castro Station, Duboce Park, the Eureka Valley Branch Library, the J Church line and the Noe Valley Town Square.
+- [Mission](https://www.thesfdispatch.com/mission/): Mission and Valencia streets from 16th Street to Cesar Chavez Street, with Mission Dolores Park, Mission Dolores, Garfield Square and the 16th Street Mission and 24th Street Mission BART stations.
+- [Potrero Hill & Dogpatch](https://www.thesfdispatch.com/potrero-hill-dogpatch/): The hill along 18th and 20th streets, with McKinley Square, the Potrero Hill Recreation Center and the Potrero Branch Library, down to Dogpatch along Third Street and the T Third line.
+- [Bernal Heights](https://www.thesfdispatch.com/bernal-heights/): The hill south of Cesar Chavez Street, with the summit of Bernal Heights Park, Precita Park, Cortland Avenue and the Bernal Heights Branch Library at 500 Cortland.
+- [Bayview-Hunters Point](https://www.thesfdispatch.com/bayview-hunters-point/): Third Street and the T Third line through the southeast waterfront, with the Bayview Branch Library, the Bayview Opera House, Heron's Head Park and Candlestick Point.
+- [Excelsior, Portola & Visitacion Valley](https://www.thesfdispatch.com/excelsior-visitacion-valley/): Mission Street, San Bruno Avenue and Leland Avenue around John McLaren Park, with the Excelsior, Portola and Visitacion Valley branch libraries and Crocker Amazon Playground on Geneva Avenue.
+- [Ingleside & Lake Merced](https://www.thesfdispatch.com/ingleside-lake-merced/): Ocean Avenue from the Balboa Park BART station west to Lake Merced, with the K Ingleside line and the Ingleside, Ocean View and Merced branch libraries.
+- [West Portal, Twin Peaks & Glen Park](https://www.thesfdispatch.com/west-portal-glen-park/): West Portal Avenue and its Muni station, the Twin Peaks summit, Mount Davidson, and Glen Canyon Park near the Glen Park BART station, with the West Portal and Glen Park branch libraries.
